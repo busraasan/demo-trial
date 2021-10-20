@@ -1,3 +1,3 @@
-print("hello")
-print("hmm")
+print("my name is main")
+print("hmmto")
 #gh
